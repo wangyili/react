@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "_id": "59af2582b67be18e39498d11",
+            "email": "admin@gmail.com",
+            "password": "12345678",
+            "role": "Admin",
+            "profile": {
+                "phoneNumber": "(222)333-4444",
+                "lastName": "Admin",
+                "firstName": "Admin",
+                "title": "Admin"
+            }
+        },
+        {
+            "_id": "59af261fb67be18e39498d12",
+            "email": "seller1@gmail.com",
+            "password": "347989732",
+            "role": "Seller",
+            "profile": {
+                "phoneNumber": "(111)222-3333",
+                "lastName": "Seller",
+                "firstName": "Xu",
+                "title": "Manager"
+            }
+        },
+        {
+            "_id": "59af2d5bb67be18e39498d1a",
+            "email": "seller2@gmail.com",
+            "password": "4737987837",
+            "role": "Seller",
+            "profile": {
+                "phoneNumber": "(555)444-8888",
+                "lastName": "Seller",
+                "firstName": "Zhang",
+                "title": "Manager"
+            }
+        },
+        {
+            "_id": "59b060912c7c449988ce9397",
+            "email": "buyer@gmail.com",
+            "password": "43838888",
+            "role": "Buyer",
+            "profile": {
+                "phoneNumber": "(213)706-1352",
+                "lastName": "Buyer",
+                "firstName": "Zhao",
+                "title": "Manager"
+            }
+        }
+    ]
+}
